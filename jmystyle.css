@@ -1,8 +1,9 @@
 body{
-    background-image: url(/images/desktop.jpg);
+     background-image: url(/image/desktop.jpg);
     background-position: 10;
     background-repeat: repeat-y;
     background-color: aqua;
+    background-size: contain;
     
 
 }
