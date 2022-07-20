@@ -1,0 +1,19 @@
+body{
+    background-image: url(/images/desktop.jpg);
+    background-position: 10;
+    background-repeat: repeat-y;
+    background-color: aqua;
+    
+
+}
+p{
+    padding-left: 50px;
+    padding-top: 10px;
+    font-family: algerian;
+    color: rgb(255, 196, 0);
+}
+h3{
+    padding-left: 10px;
+    color: rgba(255, 0, 76, 0.993);
+    font-size: 20px;
+}
