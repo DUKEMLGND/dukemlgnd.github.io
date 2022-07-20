@@ -1,8 +1,7 @@
 body{
-     background-image: url(/image/desktop.jpg);
+    background-image: url(/image/myqueen.jpg);
     background-position: 10;
     background-repeat: repeat-y;
-    background-color: aqua;
     background-size: contain;
     
 
